@@ -1,0 +1,17 @@
+# Visual Studio
+*.sdf
+*.sln
+*.v12.suo
+*.vcxproj
+*.vcxproj.filters
+
+# VS/Debug
+Debug
+*.exe
+*.ilk
+*.pdb
+*.tlog
+*.log
+*.obj
+*.idb
+*.pdb
