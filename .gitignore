@@ -15,3 +15,12 @@ Debug
 *.obj
 *.idb
 *.pdb
+
+# Qt
+*.pro.user
+*.creator
+*.creator.user
+*.files
+*.includes
+*.config
+
